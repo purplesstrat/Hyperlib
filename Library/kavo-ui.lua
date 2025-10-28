@@ -11,7 +11,7 @@ function Kavo:DraggingEnabled(frame, parent)
         
     parent = parent or frame
     
-    -- purplesstrat here: added support for mobile input!
+    -- purplesstrat here: added support for mobile input :D
     local dragging = false
     local dragInput, mousePos, framePos
 
